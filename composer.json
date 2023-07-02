@@ -1,0 +1,11 @@
+{
+    "name": "reliable/htdocs",
+    "description": "Reliable Admin",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Core\\": "Core/",
+            "App\\": "App/"
+        }
+    }
+}
